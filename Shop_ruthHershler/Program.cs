@@ -7,7 +7,7 @@ using Shop.Core.Service;
 using Shop.Data;
 using Shop.Data.Repositories;
 using Shop.Service;
-using Shop_ruthHershler;
+using Shop_zipiLindenfeld;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);

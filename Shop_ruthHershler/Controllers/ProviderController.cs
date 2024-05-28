@@ -7,7 +7,7 @@ using Shop.Service;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace Shop_ruthHershler.Controllers
+namespace Shop_zipiLindenfeld.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
